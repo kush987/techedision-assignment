@@ -6,8 +6,8 @@ Book-store api
 # Step 2
     npm install package.json
 
-# Step 3
 create docker instance for postgres Database
+# Step 3
     docker-compose -f docker-compose.yml up
 
 # Step 4
